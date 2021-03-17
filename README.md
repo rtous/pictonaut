@@ -8,4 +8,4 @@ This repository contains information, code and data related to the Pictonaut pro
 
 ## 2 Results
 
-[![Watch the video](data/topgun/result_dual.mp4)](data/topgun/result_dual.mp4)
+[![Watch the video](./data/topgun/result_dual.mp4)](./data/topgun/result_dual.png)
