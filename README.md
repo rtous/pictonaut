@@ -10,4 +10,4 @@ This repository contains information, code and data related to the Pictonaut pro
 
 [![Watch the video](/data/topgun/result_dual.mp4)](/data/topgun/result_dual.png)
 ![Image of Yaktocat](/data/topgun/result_dual.png)
-![Image of Yaktocat](/data/topgun/result_dual.mp4)
+![Image of Yaktocat](https://www.youtube.com/embed/Zzyfcys1aLM)
