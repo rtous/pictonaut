@@ -9,10 +9,7 @@ This repository contains information, code and data related to the Pictonaut pro
 ## 2 Results
 
 [![Watch the video](/data/topgun/result_dual.png)](/data/topgun/result_dual.mp4)
-![Image of Yaktocat](/data/topgun/result_dual.png)
 
-![Image of Yaktocat](https://www.youtube.com/embed/Zzyfcys1aLM)
+<!-- ![Image of Yaktocat](/data/topgun/result_dual.png)-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zzyfcys1aLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/embed/Zzyfcys1aLM/0.jpg)](https://www.youtube.com/embed/Zzyfcys1aLM)
+[![youtube video](https://www.youtube.com/embed/Zzyfcys1aLM/0.jpg)](https://www.youtube.com/embed/Zzyfcys1aLM)
