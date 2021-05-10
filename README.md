@@ -1,4 +1,4 @@
-# Pictonaut
+# Pictonaut, Editable Movie Cartoonization Through 3D Performance Capture
 
 ## 1 Introduction
 
