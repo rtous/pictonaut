@@ -13,16 +13,16 @@ If you find this repository useful for your research, please cite the original p
 ## 2 Dataset
 
 - Scene 1 (Top Gun)
-	- [input video](/data/topgun/result_dual.mp4?raw=true)
+	- [input video](/data/topgun/footage.mp4?raw=true)
 	- [3D character](/data/topgun/obj)
 - Scene 2 (Paris Texas)
-	- [input video](/data/paristexas/result_dual.mp4?raw=true)
+	- [input video](/data/paristexas/footage.mp4?raw=true)
 	- [3D character](/data/paristexas/obj)
 - Scene 3 (Terminator)
-	- [input video](/data/terminator/result_dual.mp4?raw=true)
+	- [input video](/data/terminator/footage.mp4?raw=true)
 	- [3D character](/data/terminator/obj)
 - Scene 4 (Alien)
-	- [input video](/data/alien/result_dual.mp4?raw=true)
+	- [input video](/data/alien/footage.mp4?raw=true)
 	- [3D character](/data/alien/obj)
 
 ## 3 Results
