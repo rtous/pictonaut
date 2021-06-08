@@ -12,15 +12,15 @@ This repository contains information, code and data related to the Pictonaut pro
 If you find this repository useful for your research, please cite the original publication:
 
 	TODO
--->
+
 
 ## 2 Preliminar tests
 
 - Scene 1 
 	- [input video](/data/topgun/footage.mp4?raw=true)
 	- [3D character](/data/topgun/obj)
-
-## 2 Dataset
+-->
+## 1 Dataset
 
 - Scene 1 (Top Gun)
 	- [input video](/data/topgun/footage.mp4?raw=true)
@@ -62,7 +62,7 @@ If you find this repository useful for your research, please cite the original p
 	- [input video](/data/charade3/footage.mp4?raw=true)
 	- [3D character](/data/charade3/obj)
 
-## 3 Results
+## 2 Results
 
 - Scene 1 (Top Gun)
 	- [result](/data/topgun/result.mp4?raw=true)
