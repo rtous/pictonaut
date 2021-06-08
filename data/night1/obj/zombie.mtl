@@ -1,0 +1,62 @@
+# Exported from Fuse 1.3.0
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombie_Hair_diffuse.png
+map_Ks zombie_Hair_specular.png
+bump zombie_Hair_normal.png
+map_Ns zombie_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombie_Body_diffuse.png
+map_Ks zombie_Body_specular.png
+bump zombie_Body_normal.png
+map_Ns zombie_Body_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombie_Top_diffuse.png
+map_Ks zombie_Top_specular.png
+bump zombie_Top_normal.png
+map_Ns zombie_Top_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombie_Shoes_diffuse.png
+map_Ks zombie_Shoes_specular.png
+bump zombie_Shoes_normal.png
+map_Ns zombie_Shoes_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombie_Bottom_diffuse.png
+map_Ks zombie_Bottom_specular.png
+bump zombie_Bottom_normal.png
+map_Ns zombie_Bottom_gloss.png
+
