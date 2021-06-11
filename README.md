@@ -1,4 +1,4 @@
-# Pictonaut, Editable Movie Cartoonization Through 3D Performance Capture
+# Pictonaut: Movie Cartoonization Using 3D Human Pose Estimation and GANs
 
 ## 1 Introduction
 
