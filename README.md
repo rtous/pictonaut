@@ -7,10 +7,10 @@ This repository contains information, code and data related to the Pictonaut pro
 <!--![](/data/test1/result_dual.gif)-->
 
 <p float="left">
+  <img src="img/output.gif" width="200" />
   <img src="img/tiktok2_shae_burns.gif" width="200" />
   <img src="img/tiktok2_shae_bw.gif" width="200" /> 
   <img src="img/tiktok2_shae_col.gif" width="200" />
-  <img src="img/output.gif" width="200" />
 </p>
 
 
