@@ -4,7 +4,17 @@
 
 This repository contains information, code and data related to the Pictonaut project. The project aims at developing a sytem capable of  automatically synthetise animated shots from motion picture footage. 
 
-![](/data/test1/result_dual.gif)
+<!--![](/data/test1/result_dual.gif)-->
+
+<p float="left">
+  <img src="img/tiktok2_shae_burns.gif" width="100" />
+  <img src="img/tiktok2_shae_bw.gif" width="100" /> 
+  <img src="img/tiktok2_shae_col.gif" width="100" />
+  <img src="img/tiktok2.gif" width="100" />
+</p>
+
+
+
 
 <!--
 ## 2 Acknowledgements
