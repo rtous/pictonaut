@@ -111,49 +111,49 @@ If you find this repository useful for your research, please cite the original p
 ## 3. Pictonaut result over Human3.6M dataset
 
 - Subject 2 / Posing 1
-	- [input video](/h36m_s2_1/footage.mp4?raw=true)
+	- [input video](/data/h36m_s2_1/footage.mp4?raw=true)
 	- [result](/data/h36m_s2_1/result.mp4?raw=true)
 
 - Subject 2 / Posing 1
-	- [input video](/h36m_s2_2/footage.mp4?raw=true)
+	- [input video](/data/h36m_s2_2/footage.mp4?raw=true)
 	- [result](/data/h36m_s2_2/result.mp4?raw=true)
 
 - Subject 5 / Posing 2
-	- [input video](/h36m_s5_1/footage.mp4?raw=true)
+	- [input video](/data/h36m_s5_1/footage.mp4?raw=true)
 	- [result](/data/h36m_s5_1/result.mp4?raw=true)
 
 - Subject 5 / Posing 3
-	- [input video](/h36m_s5_2/footage.mp4?raw=true)
+	- [input video](/data/h36m_s5_2/footage.mp4?raw=true)
 	- [result](/data/h36m_s5_2/result.mp4?raw=true)
 
 - Subject 5 / Posing 4
-	- [input video](/h36m_s5_3/footage.mp4?raw=true)
+	- [input video](/data/h36m_s5_3/footage.mp4?raw=true)
 	- [result](/data/h36m_s5_3/result.mp4?raw=true)
 
 - Subject 7 / Posing 1
-	- [input video](/h36m_s7_1/footage.mp4?raw=true)
+	- [input video](/data/h36m_s7_1/footage.mp4?raw=true)
 	- [result](/data/h36m_s7_1/result.mp4?raw=true)
 
 - Subject 7 / Posing 2
-	- [input video](/h36m_s7_2/footage.mp4?raw=true)
+	- [input video](/data/h36m_s7_2/footage.mp4?raw=true)
 	- [result](/data/h36m_s7_2/result.mp4?raw=true)
 
 - Subject 7 / Posing 3
-	- [input video](/h36m_s7_3/footage.mp4?raw=true)
+	- [input video](/data/h36m_s7_3/footage.mp4?raw=true)
 	- [result](/data/h36m_s7_3/result.mp4?raw=true)
 
 - Subject 7 / Posing 4
-	- [input video](/h36m_s7_4/footage.mp4?raw=true)
+	- [input video](/data/h36m_s7_4/footage.mp4?raw=true)
 	- [result](/data/h36m_s7_4/result.mp4?raw=true)
 
 - Subject 7 / Posing 5
-	- [input video](/h36m_s7_5/footage.mp4?raw=true)
+	- [input video](/data/h36m_s7_5/footage.mp4?raw=true)
 	- [result](/data/h36m_s7_5/result.mp4?raw=true)
 
 - Subject 8 / Posing 1
-	- [input video](/h36m_s8_1/footage.mp4?raw=true)
+	- [input video](/data/h36m_s8_1/footage.mp4?raw=true)
 	- [result](/data/h36m_s8_1/result.mp4?raw=true)
 
 - Subject 8 / Posing 2
-	- [input video](/h36m_s8_2/footage.mp4?raw=true)
+	- [input video](/data/h36m_s8_2/footage.mp4?raw=true)
 	- [result](/data/h36m_s8_2/result.mp4?raw=true)
