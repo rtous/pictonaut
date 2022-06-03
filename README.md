@@ -1,6 +1,6 @@
 # Pictonaut: Movie Cartoonization Using 3D Human Pose Estimation and GANs
 
-## 1 Introduction
+## 1. Introduction
 
 This repository contains information, code and data related to the Pictonaut project. The project aims at developing a sytem capable of  automatically synthetise animated shots from motion picture footage. 
 
@@ -30,7 +30,10 @@ If you find this repository useful for your research, please cite the original p
 	- [input video](/data/topgun/footage.mp4?raw=true)
 	- [3D character](/data/topgun/obj)
 -->
-## 1 Dataset
+
+## 2. Pictonaut dataset of film shots
+
+### 2.1 Input videos and 3D characters
 
 - Scene 1 (Top Gun)
 	- [input video](/data/topgun/footage.mp4?raw=true)
@@ -72,7 +75,7 @@ If you find this repository useful for your research, please cite the original p
 	- [input video](/data/charade3/footage.mp4?raw=true)
 	- [3D character](/data/charade3/obj)
 
-## 2 Results
+### 2.2 Results
 
 - Scene 1 (Top Gun)
 	- [result](/data/topgun/result.mp4?raw=true)
@@ -105,3 +108,52 @@ If you find this repository useful for your research, please cite the original p
 - Scene 13 (Charade 3/3)
 	- [result](/data/charade3/result.mp4?raw=true)
 
+## 3. Pictonaut result over Human3.6M dataset
+
+- Subject 2 / Posing 1
+	- [input video](/h36m_s2_1/footage.mp4?raw=true)
+	- [result](/data/h36m_s2_1/result.mp4?raw=true)
+
+- Subject 2 / Posing 1
+	- [input video](/h36m_s2_2/footage.mp4?raw=true)
+	- [result](/data/h36m_s2_2/result.mp4?raw=true)
+
+- Subject 5 / Posing 2
+	- [input video](/h36m_s5_1/footage.mp4?raw=true)
+	- [result](/data/h36m_s5_1/result.mp4?raw=true)
+
+- Subject 5 / Posing 3
+	- [input video](/h36m_s5_2/footage.mp4?raw=true)
+	- [result](/data/h36m_s5_2/result.mp4?raw=true)
+
+- Subject 5 / Posing 4
+	- [input video](/h36m_s5_3/footage.mp4?raw=true)
+	- [result](/data/h36m_s5_3/result.mp4?raw=true)
+
+- Subject 7 / Posing 1
+	- [input video](/h36m_s7_1/footage.mp4?raw=true)
+	- [result](/data/h36m_s7_1/result.mp4?raw=true)
+
+- Subject 7 / Posing 2
+	- [input video](/h36m_s7_2/footage.mp4?raw=true)
+	- [result](/data/h36m_s7_2/result.mp4?raw=true)
+
+- Subject 7 / Posing 3
+	- [input video](/h36m_s7_3/footage.mp4?raw=true)
+	- [result](/data/h36m_s7_3/result.mp4?raw=true)
+
+- Subject 7 / Posing 4
+	- [input video](/h36m_s7_4/footage.mp4?raw=true)
+	- [result](/data/h36m_s7_4/result.mp4?raw=true)
+
+- Subject 7 / Posing 5
+	- [input video](/h36m_s7_5/footage.mp4?raw=true)
+	- [result](/data/h36m_s7_5/result.mp4?raw=true)
+
+- Subject 8 / Posing 1
+	- [input video](/h36m_s8_1/footage.mp4?raw=true)
+	- [result](/data/h36m_s8_1/result.mp4?raw=true)
+
+- Subject 8 / Posing 2
+	- [input video](/h36m_s8_2/footage.mp4?raw=true)
+	- [result](/data/h36m_s8_2/result.mp4?raw=true)
