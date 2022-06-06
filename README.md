@@ -108,7 +108,26 @@ If you find this repository useful for your research, please cite the original p
 - Scene 13 (Charade 3/3)
 	- [result](/data/charade3/result.mp4?raw=true)
 
-## 3. Pictonaut result over Human3.6M dataset
+## 3. Pictonaut result over CMU Motion Capture dataset
+
+<p float="left">
+  <img src="cmu_17_10/result.gif" width="200" />
+</p>
+
+- Subject 17 / Motion 10
+	- [input video](/data/cmu_17_10/footage.mp4?raw=true)
+	- [result](/data/cmu_17_10/result.mp4?raw=true)
+
+
+- Subject 8 / Motion 10
+	- [input video](/data/cmu_08_10/footage.mp4?raw=true)
+	- [result](/data/cmu_08_10/result.mp4?raw=true)
+
+- Subject 35 / Motion 17
+	- [input video](/data/cmu_35_17/footage.mp4?raw=true)
+	- [result](/data/cmu_35_17/result.mp4?raw=true)
+
+## 4. Pictonaut result over Human3.6M dataset
 
 - Subject 2 / Posing 1
 	- [input video](/data/h36m_s2_1/footage.mp4?raw=true)
@@ -158,16 +177,4 @@ If you find this repository useful for your research, please cite the original p
 	- [input video](/data/h36m_s8_2/footage.mp4?raw=true)
 	- [result](/data/h36m_s8_2/result.mp4?raw=true)
 
-## 3. Pictonaut result over CMU Motion Capture dataset
 
-- Subject 8 / Motion 10
-	- [input video](/data/cmu_08_10/footage.mp4?raw=true)
-	- [result](/data/cmu_08_10/result.mp4?raw=true)
-
-- Subject 17 / Motion 10
-	- [input video](/data/cmu_17_10/footage.mp4?raw=true)
-	- [result](/data/cmu_17_10/result.mp4?raw=true)
-
-- Subject 35 / Motion 17
-	- [input video](/data/cmu_35_17/footage.mp4?raw=true)
-	- [result](/data/cmu_35_17/result.mp4?raw=true)
