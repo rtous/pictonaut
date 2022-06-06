@@ -111,7 +111,7 @@ If you find this repository useful for your research, please cite the original p
 ## 3. Pictonaut result over CMU Motion Capture dataset
 
 <p float="left">
-  <img src="/data/cmu_17_10/result.gif" width="200" />
+  <img src="/data/cmu_17_10/result.gif" width="400" />
 </p>
 
 - Subject 17 / Motion 10
