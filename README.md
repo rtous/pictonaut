@@ -157,3 +157,17 @@ If you find this repository useful for your research, please cite the original p
 - Subject 8 / Posing 2
 	- [input video](/data/h36m_s8_2/footage.mp4?raw=true)
 	- [result](/data/h36m_s8_2/result.mp4?raw=true)
+
+## 3. Pictonaut result over CMU Motion Capture dataset
+
+- Subject 8 / Motion 10
+	- [input video](/data/cmu_08_10/footage.mp4?raw=true)
+	- [result](/data/cmu_08_10/result.mp4?raw=true)
+
+- Subject 17 / Motion 10
+	- [input video](/data/cmu_17_10/footage.mp4?raw=true)
+	- [result](/data/cmu_17_10/result.mp4?raw=true)
+
+- Subject 35 / Motion 17
+	- [input video](/data/cmu_35_17/footage.mp4?raw=true)
+	- [result](/data/cmu_35_17/result.mp4?raw=true)
